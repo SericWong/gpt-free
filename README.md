@@ -9,7 +9,7 @@
 ### 🚀 快速访问入口
 
 - ChatGPT 中文版入口：[chat.aibox365.cn](https://chat.aibox365.cn)
-- ChatGPT 镜像网站入口：[aibox365.com](https://aibox365.com)
+- ChatGPT 镜像网站入口：[gpt 镜像](https://chat.write360.cn)
 
 ## 🤔 ChatGPT 中文版是什么？
 
